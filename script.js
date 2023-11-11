@@ -113,7 +113,7 @@ function move() {
     }
 }
 
-geradorAutomatico(100, true)
+geradorAutomatico(6, true)
 
 function loop() {
     window.requestAnimationFrame(loop)
